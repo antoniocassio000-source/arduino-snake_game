@@ -1,0 +1,3 @@
+telemetrix
+pygame
+dotenv
